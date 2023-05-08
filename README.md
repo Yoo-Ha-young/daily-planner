@@ -50,3 +50,10 @@ Todo 테이블은 제목, 내용, 마김일, 우선순위 등을 포함합니다
 
 ## Trouble Shooting
 https://github.com/Yoo-Ha-young/daily-planner/blob/main/doc/TROUBLE_SHOOTING.md
+
+## Task Stack
+- Java 11
+- Spring 2.7
+- 템플릿 엔진 (Thymeleaf)
+- Spring Data JPA
+- MySQL
