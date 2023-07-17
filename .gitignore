@@ -64,3 +64,4 @@ application.properties
 ### VS Code ###
 .vscode/
 >>>>>>> a34268e (create back-end scaffold)
+node_modules
